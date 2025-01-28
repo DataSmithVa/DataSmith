@@ -1,7 +1,9 @@
-import Image from "next/image";
+import UnderMaint from "./ui/under_maint/under_maint";
 
 export default function Home() {
   return (
-<div></div>
+    <div>
+      <UnderMaint />
+    </div>
   );
 }

@@ -1,9 +1,6 @@
 import type { Metadata } from "next";
 import "./ui/globals.css";
 
-// Components
-import UnderMaint from "./ui/under_maint/under_maint";
-
 export const metadata: Metadata = {
   title: {
     template: "DataSmith | %s",
@@ -20,7 +17,6 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body>
-        <UnderMaint />
         {children}
       </body>
     </html>
