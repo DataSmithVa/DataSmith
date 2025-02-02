@@ -1,5 +1,5 @@
 
-let currentTime = "8:00 AM";
+const currentTime = "8:00 AM";
 
 export default function PunchClock() {
     return (
