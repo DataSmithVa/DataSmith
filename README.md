@@ -26,3 +26,9 @@ The goal with this project is to provide a multi-tenant site to host not only th
 public facing portion of the website but also as an employee portal to handle  
 functions such as time keeping, scheduling, tasks and more. Another goal would  
 be for this web app to be deployable both locally and remotely if needed.
+
+### Goals
+
+- [x] Build basic placeholder page while site is under development
+- [ ] Deploy placeholder page
+- [ ] Continue development
