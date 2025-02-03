@@ -15,7 +15,7 @@
 }
 
 body {
-  color: var(--datasmith);
-  background: var(--foreground);
+  color: var(--foreground);
+  background: var(--datasmith);
   font-family: poppins;
 }
