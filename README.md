@@ -30,5 +30,5 @@ be for this web app to be deployable both locally and remotely if needed.
 ### Goals
 
 - [x] Build basic placeholder page while site is under development
-- [ ] Deploy placeholder page
+- [x] Deploy placeholder page
 - [ ] Continue development
